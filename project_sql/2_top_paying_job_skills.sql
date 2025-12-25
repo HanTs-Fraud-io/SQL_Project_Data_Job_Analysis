@@ -6,6 +6,7 @@ Question: What skills are required for the top-paying data analyst jobs?
 helping job seekers understand which skills to develop that align with top salaries
 */
 
+
 WITH top_paying_jobs AS
 (
 SELECT

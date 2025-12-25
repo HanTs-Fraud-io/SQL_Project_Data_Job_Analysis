@@ -7,6 +7,7 @@ Question: What are the most in-demand skills for data nalysts?
 providing insights into the most valuable skills for job seekers
 */
 
+
     SELECT
         skills,
         COUNT(jp.job_id) AS skill_count
